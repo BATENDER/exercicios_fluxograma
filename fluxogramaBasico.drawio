@@ -1,0 +1,66 @@
+<mxfile host="65bd71144e">
+    <diagram id="2BSQcSOHOLWlaxMQv45C" name="Page-1">
+        <mxGraphModel dx="1076" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-7" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: Roboto, Arial, sans-serif; font-size: 14px; font-weight: 400; letter-spacing: 0.2px;&quot;&gt;Construa um diagrama de blocos que&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-family: Roboto, Arial, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;• Leia a cotação do dólar&lt;/span&gt;&lt;br style=&quot;-webkit-tap-highlight-color: transparent; font-family: Roboto, Arial, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: Roboto, Arial, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;• Leia um valor em dólares&lt;/span&gt;&lt;br style=&quot;-webkit-tap-highlight-color: transparent; font-family: Roboto, Arial, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: Roboto, Arial, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;• Converta esse valor para Real&lt;/span&gt;&lt;br style=&quot;-webkit-tap-highlight-color: transparent; font-family: Roboto, Arial, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;&lt;span style=&quot;font-family: Roboto, Arial, sans-serif; font-size: 14px; letter-spacing: 0.2px;&quot;&gt;• Mostre o resultado&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="30" width="190" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-11" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="foU1-u0-Jj9WsuFKGYt7-8" target="foU1-u0-Jj9WsuFKGYt7-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-8" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-12" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="foU1-u0-Jj9WsuFKGYt7-9" target="foU1-u0-Jj9WsuFKGYt7-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-9" value="COTACAO, VALORDOLAR,&lt;br&gt;RESULTADO : real" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;align=center;fillColor=#fad7ac;strokeColor=#b46504;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="170" width="250" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-14" style="edgeStyle=none;html=1;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="foU1-u0-Jj9WsuFKGYt7-10" target="foU1-u0-Jj9WsuFKGYt7-13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="500" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-10" value="&quot;Digite a cotação do DÓLAR: &quot;" style="shape=display;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#6d8764;strokeColor=#3A5431;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="320" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-17" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="foU1-u0-Jj9WsuFKGYt7-13" target="foU1-u0-Jj9WsuFKGYt7-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-13" value="COTACAO" style="shape=manualInput;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="450" width="180" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="foU1-u0-Jj9WsuFKGYt7-16" target="foU1-u0-Jj9WsuFKGYt7-18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-16" value="&quot;Digite um valor em dolar: &quot;" style="shape=display;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#6d8764;strokeColor=#3A5431;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="460" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-21" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="foU1-u0-Jj9WsuFKGYt7-18" target="foU1-u0-Jj9WsuFKGYt7-20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-18" value="VALORDOLAR" style="shape=manualInput;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="35" y="600" width="180" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-23" style="edgeStyle=none;html=1;entryX=0.505;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="foU1-u0-Jj9WsuFKGYt7-20" target="foU1-u0-Jj9WsuFKGYt7-22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-20" value="RESULTADO &amp;lt;- COTACAO * VALORDOLAR" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#a20025;strokeColor=#6F0000;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="600" width="180" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-25" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="foU1-u0-Jj9WsuFKGYt7-22" target="foU1-u0-Jj9WsuFKGYt7-24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-22" value="&quot;Seu valor em dólares equivale a: &quot;, RESULTADO, &quot;R$&quot;&lt;br&gt;" style="shape=display;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#6d8764;strokeColor=#3A5431;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="750" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="foU1-u0-Jj9WsuFKGYt7-24" value="FIM" style="ellipse;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="880" width="120" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
